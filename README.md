@@ -14,14 +14,13 @@ In this repository there are the .py files that allow to extract the information
 
 ## Code
 
-*goodreadsscrapper.py* --> Python code with the GoodReadsScrapper class to extract information from the Goodreads page via web scrapping with Selenium. Use the URL of the page of each of the books you want to extract the information and iterate through each of its elements until you get a list with all the attributes.
+*/src/goodreadsscrapper.py* --> Python code with the GoodReadsScrapper class to extract information from the Goodreads page via web scrapping with Selenium. Use the URL of the page of each of the books you want to extract the information and iterate through each of its elements until you get a list with all the attributes.
 
-*main.py* --> Run goodreadsscrapper.py functions.
+*/src/main.py* --> Run goodreadsscrapper.py functions.
 
 */Docs_&_Examples/Read_BBE_dataset.ipynb* --> Jupyter Notebook script to read the generated dataset of Best Books Ever list from Goodreads
 
 */Docs_&_Examples/silly_usage_example/main.py* --> An example to take the first 9 books of Best Books Ever list from Goodreads
-
 
 
 
@@ -54,4 +53,3 @@ In this repository there are the .py files that allow to extract the information
 | bbeScore | Score in Best Books Ever list |    
 | bbeVotes | Number of votes in Best Books Ever list |
 | price | Book's price (extracted from Iberlibro) |
-
