@@ -1,6 +1,6 @@
 # Goodreads Best Books Ever dataset
 
-This Python project was created to retrieve data from list of Best Books Ever from page Goodreads using Selenium as part of a academic work. 
+This Python project was created to retrieve data from the Best Books Ever list on Goodreads.com using Python + Selenium as part of a academic work. 
 
 The dataset folder contains the BBE_dataset published under CC BY-NC 4.0 and can be referenced as follows:
 
