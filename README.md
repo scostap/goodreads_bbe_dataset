@@ -14,6 +14,9 @@ In this repository there are the .py files that allow to extract the information
 
 ## Code
 
+*goodreadsscrapper.py* --> Python code with the GoodReadsScrapper class to extract information from the Goodreads page via web scrapping with Selenium. Use the URL of the page of each of the books you want to extract the information and iterate through each of its elements until you get a list with all the attributes.
+
+*main.py* --> Run goodreadsscrapper.py functions.
 
 
 ## Dataset 
@@ -45,4 +48,4 @@ In this repository there are the .py files that allow to extract the information
 | bbeScore | Score in Best Books Ever list |    
 | bbeVotes | Number of votes in Best Books Ever list |
 | price | Book's price (extracted from Iberlibro) |
-| ------------- | ------------- |
+
