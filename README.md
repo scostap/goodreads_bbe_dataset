@@ -19,7 +19,7 @@ In this repository there are the .py files that allow to extract the information
 *main.py* --> Run goodreadsscrapper.py functions.
 
 
-## Dataset 
+## Dataset Information
 
 | Attributes  | Definition |
 | ------------- | ------------- |
