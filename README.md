@@ -18,6 +18,10 @@ In this repository there are the .py files that allow to extract the information
 
 *main.py* --> Run goodreadsscrapper.py functions.
 
+*/Docs_&_Examples/Read_BBE_dataset.ipynb* --> Jupyter Notebook script to read the generated dataset of Best Books Ever list from Goodreads
+
+*/Docs_&_Examples/
+
 
 ## Dataset Information
 
