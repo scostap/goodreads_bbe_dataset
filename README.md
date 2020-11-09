@@ -61,6 +61,6 @@ This repository includes the developed tools needed to extract book information 
 | bbeVotes | Number of votes in Best Books Ever list | 100 |
 | price | Book's price (extracted from Iberlibro) | 73 |
 
-Book cover images are not provided within the dataset, but the dataset containt the URL to each book's cover image and the GoodReadsScraper can be used to download them. Usage is documented and a simple usage example is provided (see /Docs_&_Examples/silly_usage_example/).
+Book cover images are not provided within the dataset, but the dataset contains the URL to each book's cover image and the GoodReadsScraper can be used to download them. Usage is documented and a simple usage example is provided (see /Docs_&_Examples/silly_usage_example/).
 
 More information on the dataset can be obtained at http://doi.org/10.5281/zenodo.4265096
