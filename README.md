@@ -27,7 +27,7 @@ This repository includes the developed tools needed to extract book information 
 
 */Docs_&_Examples/Documentation_GoodReadsScraper.pdf* --> Documentation on GoodReadsScraper usage.
 
-*/Docs_&_Examples/silly_usage_example/* --> Usage example of GoodReadsScrapper applied to an small list. Shows complete functionality aorund 2 minutes run.
+*/Docs_&_Examples/silly_usage_example/* --> Usage example of GoodReadsScrapper applied to an small list. Shows complete functionality in ~2 minutes run.
 
 */Best_Books_Ever_dataset/books_1.Best_Books_Ever.csv* --> CSV containint the BBE dataset.
 
